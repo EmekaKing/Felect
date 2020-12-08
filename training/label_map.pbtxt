@@ -1,0 +1,19 @@
+item {
+    id: 1
+    name: 'broken insulator'
+}
+
+item {
+    id: 2
+    name: 'missing insulator'
+}
+
+item {
+    id: 3
+    name: 'missing knob'
+}
+
+item {
+    id: 4
+    name: 'rusty clamp'
+}
